@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pillow
+pytesseract
+sentence-transformers
+faiss-cpu
+langchain_groq
+transformers
+torch
+tqdm
