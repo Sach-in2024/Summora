@@ -1,6 +1,8 @@
 # 🌙 Summora --- AI-Powered Smart PDF Summarizer
 
 > **"From visuals to variables, Summora sees it all."**
+> <img width="935" height="909" alt="Screenshot 2025-10-20 115610" src="https://github.com/user-attachments/assets/5d8e1e5a-bb8f-4115-b4e2-7dde7c61c49d" />
+
 
 Summora is an **AI-powered PDF summarizer** that understands and
 summarizes **text, code, math, and images** from your documents.\
